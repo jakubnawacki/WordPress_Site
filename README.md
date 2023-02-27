@@ -1,6 +1,6 @@
 # WordPress_Site
 
-My first personal webiste abou inveting in cryptocurrencies.
+My first personal webiste about inveting in cryptocurrencies.
 Also my first advanture with Wordpress way of creating website.
 
 
